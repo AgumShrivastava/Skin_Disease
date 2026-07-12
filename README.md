@@ -1,18 +1,6 @@
 # 🩺 Skin Disease Classification using Deep Learning (CNN)
 
-<p align="center">
-  <img src="images/banner.png" alt="Skin Disease Classification Banner" width="100%">
-</p>
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
-![CNN](https://img.shields.io/badge/Model-Custom%20CNN-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-</p>
+ 
 
 ---
 
